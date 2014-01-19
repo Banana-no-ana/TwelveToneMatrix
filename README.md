@@ -2,7 +2,7 @@ TwelveToneMatrix
 ================
 
 To run: 
-  $ Python MatrixMaker.py
+    $Python MatrixMaker.py
 
 Randomly generate a 12-tone row, then display the row's matrix. 
 Rows are outputted by numerical numbers. 
